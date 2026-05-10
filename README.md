@@ -1,6 +1,4 @@
-# DIU_SWE_BLUEPLRINT
-SWE BLUEPRINT: The master plan for academic success
-
+# SWE BLUEPRINT: The master plan for academic success
 
 Welcome to the ultimate resource hub for Software Engineering students at Daffodil International University. This repository is designed to be a living, breathing encyclopedia of knowledge, built by students, for students.
 
