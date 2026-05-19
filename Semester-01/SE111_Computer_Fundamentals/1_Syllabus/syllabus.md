@@ -1,3 +1,14 @@
-**Find all the Computer Fundamentals slides of first semester from here:**
+**Midterm Syllabus:**
 
-https://drive.google.com/drive/folders/14h7Q_Bmrs5qO08OiatLc9Do-rICxvh_V?usp=drive_link
+Introduction to Software Engineering
+Difference between CSE & SWE
+SDLC
+Software Development Models
+Prototype, Spiral, Agile, XP, V SDLC Models
+
+**Final Syllabus:**
+
+Software Scheduling
+Different types of Software Testing
+Software cost estimation
+Software testing: Cyclomatic Complexity
