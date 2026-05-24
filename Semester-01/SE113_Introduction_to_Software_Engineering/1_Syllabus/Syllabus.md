@@ -16,6 +16,6 @@ Software Scheduling
 
 Different types of Software Testing
 
-Software cost estimation
+Software cost estimation: Cyclomatic Complexity(adjacency matrix & predicated nodes)
 
-Software testing: Cyclomatic Complexity
+Software testing
