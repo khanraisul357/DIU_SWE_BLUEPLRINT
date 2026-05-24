@@ -1,14 +1,28 @@
-**Midterm Syllabus:**
 
-Introduction to Software Engineering
-Difference between CSE & SWE
-SDLC
-Software Development Models
-Prototype, Spiral, Agile, XP, V SDLC Models
+**Midterm-term Syllabus:**
 
-**Final Syllabus:**
+Data & Information
 
-Software Scheduling
-Different types of Software Testing
-Software cost estimation
-Software testing: Cyclomatic Complexity
+I/o Devices and CPU
+
+Computer Memory Unit
+
+Number Systems
+
+Logic Gate, Logic Circuits, Boolean Algebra
+
+---
+
+**Final-term Syllabus:**
+
+⁠Databases
+
+Algorithms and Flowcharts
+
+⁠C programming (basic to conditionals)
+
+Computer Networks
+
+⁠Software Vulnerabilities
+
+Network ⁠Security Fundamentals
