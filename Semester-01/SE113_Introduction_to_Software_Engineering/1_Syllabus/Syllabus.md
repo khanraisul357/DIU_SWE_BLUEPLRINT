@@ -1,6 +1,6 @@
 **Midterm Syllabus:**
 
-Introduction to Software Engineering
+Introduction to Software Engineerin
 
 Difference between CSE & SWE
 
